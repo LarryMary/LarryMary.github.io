@@ -1,2 +1,2 @@
 # LarryMary.github.io
-Hosting for current projects
+Hosting for FreeCodeCamp projects
